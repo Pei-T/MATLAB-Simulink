@@ -16,4 +16,4 @@ stiffnessTrace.slx	刚度跟踪系统，可变刚度弹性元件的刚度各种�
 
 variableStiffnessJoint.slx	可变刚度弹性关节模型
 
-variableStiffnessSystem.slx	整个可变刚度系统，包括动力源，负载，和中间连接
+//variableStiffnessSystem.slx	整个可变刚度系统，包括动力源，负载，和中间连接
